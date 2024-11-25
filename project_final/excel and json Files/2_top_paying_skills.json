@@ -1,0 +1,310 @@
+[
+  {
+    "job_id": 1401033,
+    "job_title": "Market Data Lead Analyst",
+    "company_name": "Deutsche Bank",
+    "skill_name": "excel",
+    "salary_year_gbp": "226800.000"
+  },
+  {
+    "job_id": 159866,
+    "job_title": "Research Engineer, Science",
+    "company_name": "DeepMind",
+    "skill_name": "c++",
+    "salary_year_gbp": "223376.580"
+  },
+  {
+    "job_id": 159866,
+    "job_title": "Research Engineer, Science",
+    "company_name": "DeepMind",
+    "skill_name": "numpy",
+    "salary_year_gbp": "223376.580"
+  },
+  {
+    "job_id": 159866,
+    "job_title": "Research Engineer, Science",
+    "company_name": "DeepMind",
+    "skill_name": "pandas",
+    "salary_year_gbp": "223376.580"
+  },
+  {
+    "job_id": 159866,
+    "job_title": "Research Engineer, Science",
+    "company_name": "DeepMind",
+    "skill_name": "python",
+    "salary_year_gbp": "223376.580"
+  },
+  {
+    "job_id": 159866,
+    "job_title": "Research Engineer, Science",
+    "company_name": "DeepMind",
+    "skill_name": "pytorch",
+    "salary_year_gbp": "223376.580"
+  },
+  {
+    "job_id": 159866,
+    "job_title": "Research Engineer, Science",
+    "company_name": "DeepMind",
+    "skill_name": "tensorflow",
+    "salary_year_gbp": "223376.580"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "aurora",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "aws",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "azure",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "elasticsearch",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "hadoop",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "kafka",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "mongodb",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "mongodb",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "oracle",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "postgresql",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "python",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "r",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "redshift",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "scala",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "sql",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 258461,
+    "job_title": "Data Architect",
+    "company_name": "AND Digital",
+    "skill_name": "sql server",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 1563887,
+    "job_title": "Data Architect",
+    "company_name": "Darktrace",
+    "skill_name": "flow",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 1563887,
+    "job_title": "Data Architect",
+    "company_name": "Darktrace",
+    "skill_name": "mysql",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 1563887,
+    "job_title": "Data Architect",
+    "company_name": "Darktrace",
+    "skill_name": "sql",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 1563887,
+    "job_title": "Data Architect",
+    "company_name": "Darktrace",
+    "skill_name": "sql server",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 1246069,
+    "job_title": "Data Analyst",
+    "company_name": "Plexus Resource Solutions",
+    "skill_name": "aws",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 1246069,
+    "job_title": "Data Analyst",
+    "company_name": "Plexus Resource Solutions",
+    "skill_name": "mysql",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 1246069,
+    "job_title": "Data Analyst",
+    "company_name": "Plexus Resource Solutions",
+    "skill_name": "python",
+    "salary_year_gbp": "207900.000"
+  },
+  {
+    "job_id": 478395,
+    "job_title": "Data Architect",
+    "company_name": "Logispin",
+    "skill_name": "azure",
+    "salary_year_gbp": "206365.320"
+  },
+  {
+    "job_id": 478395,
+    "job_title": "Data Architect",
+    "company_name": "Logispin",
+    "skill_name": "looker",
+    "salary_year_gbp": "206365.320"
+  },
+  {
+    "job_id": 478395,
+    "job_title": "Data Architect",
+    "company_name": "Logispin",
+    "skill_name": "nosql",
+    "salary_year_gbp": "206365.320"
+  },
+  {
+    "job_id": 1813715,
+    "job_title": "Data Architect - Trading and Supply",
+    "company_name": "Shell",
+    "skill_name": "excel",
+    "salary_year_gbp": "197190.000"
+  },
+  {
+    "job_id": 1813715,
+    "job_title": "Data Architect - Trading and Supply",
+    "company_name": "Shell",
+    "skill_name": "express",
+    "salary_year_gbp": "197190.000"
+  },
+  {
+    "job_id": 1813715,
+    "job_title": "Data Architect - Trading and Supply",
+    "company_name": "Shell",
+    "skill_name": "flow",
+    "salary_year_gbp": "197190.000"
+  },
+  {
+    "job_id": 1813715,
+    "job_title": "Data Architect - Trading and Supply",
+    "company_name": "Shell",
+    "skill_name": "shell",
+    "salary_year_gbp": "197190.000"
+  },
+  {
+    "job_id": 217504,
+    "job_title": "Analytics Engineer - ENA London, Warsaw- (F/M)",
+    "company_name": "AccorCorpo",
+    "skill_name": "python",
+    "salary_year_gbp": "175412.160"
+  },
+  {
+    "job_id": 217504,
+    "job_title": "Analytics Engineer - ENA London, Warsaw- (F/M)",
+    "company_name": "AccorCorpo",
+    "skill_name": "sql",
+    "salary_year_gbp": "175412.160"
+  },
+  {
+    "job_id": 307234,
+    "job_title": "Finance Data Analytics Manager",
+    "company_name": "AJ Bell",
+    "skill_name": "excel",
+    "salary_year_gbp": "166950.000"
+  },
+  {
+    "job_id": 307234,
+    "job_title": "Finance Data Analytics Manager",
+    "company_name": "AJ Bell",
+    "skill_name": "power bi",
+    "salary_year_gbp": "166950.000"
+  },
+  {
+    "job_id": 307234,
+    "job_title": "Finance Data Analytics Manager",
+    "company_name": "AJ Bell",
+    "skill_name": "python",
+    "salary_year_gbp": "166950.000"
+  },
+  {
+    "job_id": 307234,
+    "job_title": "Finance Data Analytics Manager",
+    "company_name": "AJ Bell",
+    "skill_name": "r",
+    "salary_year_gbp": "166950.000"
+  },
+  {
+    "job_id": 307234,
+    "job_title": "Finance Data Analytics Manager",
+    "company_name": "AJ Bell",
+    "skill_name": "sql",
+    "salary_year_gbp": "166950.000"
+  }
+]
