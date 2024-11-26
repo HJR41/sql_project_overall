@@ -1,5 +1,5 @@
 # Introduction 🌍📊
-A deep-dive into 2023 job market data. With a main focus on 'Data Analyst' roles within the UK, but with sites into the overall market for comparison. The analysis uncovers **Top-Paying-Skills** & the most **in Demand tools** for job-seekers and recruiters for data-driven decision making.  🚀
+A deep-dive into 2023 job market data. With a main focus on 'Data Analyst' roles within the UK, but with in-sites into the overall market for comparison. The analysis uncovers **Top-Paying-Skills** & the most **in Demand tools** for job-seekers and recruiters for data-driven decision making.  🚀
 
 Check out my SQL queries here: [project_final](/project_final/)
 
