@@ -114,7 +114,7 @@ ORDER BY
 LIMIT 10
 ```
 
-This chart is a breakdown of the most mentioned skills, with number of time a skills in mentioned on the Y axis & skill name on the X axis:
+This chart is a breakdown of the most mentioned skills, with number of time a skill is mentioned on the Y axis & skill name on the X axis:
 
 ![Top Paying Roles](Charts\Query2.0.PNG)
 
