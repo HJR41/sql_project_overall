@@ -17,8 +17,8 @@ Check out my SQL queries here: [project_final](/project_final/)
 For my project I used the following tools to complete my analysis:
 
 - **SQL:** The backbone of my queries, allowing me to get insights from the data.
-- **PostgreSQL:** My Chosen Dtabase managment system.
-- ** Visual Studio Code:** The go-to scripting editor.
+- **PostgreSQL:** My Chosen Database managment system.
+- **Visual Studio Code:** The go-to scripting editor.
 - **Git & GitHub:** Essential for version control and error tracking. Allowing me to share my insights and how i achieved them.
 
 # Analysis 
@@ -75,7 +75,7 @@ LIMIT 10
 
 **2. Skills in the Top-Paying jobs from First Query:**
 
-To understand what skills are required at the top 10 paying jobs i joined the jobs table with the Skills table. The below query gave me all the skills mentioned in the top 10 tops.
+To understand what skills are required at the top 10 paying jobs I joined the jobs table with the Skills table. The below query gave me all the skills mentioned in the top 10 jobs.
 
 ``` SQL
 WITH data_analyst_roles AS (
@@ -114,7 +114,7 @@ ORDER BY
 LIMIT 10
 ```
 
-This chart is a breakdown of the most mentioned skills, with number of occurences on the Y axis & skill name on the X axis:
+This chart is a breakdown of the most mentioned skills, with number of time a skills in mentioned on the Y axis & skill name on the X axis:
 
 ![Top Paying Roles](Charts\Query2.0.PNG)
 
@@ -147,7 +147,7 @@ Results from the overall data set found the following skills were the most in de
 4. Tableau
 5. Power BI
 
-Rerunning the Query to filtering for job posted in the UK provided slightly different results:
+Rerunning the Query to filtering for jobs posted in the UK provided slightly different results:
 
 1. SQL
 2. Excel
