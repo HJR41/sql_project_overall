@@ -116,7 +116,7 @@ LIMIT 10
 
 This chart is a breakdown of the most mentioned skills, with number of time a skill is mentioned on the Y axis & skill name on the X axis:
 
-![Top Paying Roles](Charts\Query2.0.PNG)
+![Top Paying Roles](.\Charts\Query2.0.PNG)
 
 
 
