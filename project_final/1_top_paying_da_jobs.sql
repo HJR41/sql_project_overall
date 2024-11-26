@@ -13,8 +13,7 @@ SELECT
     company_dim.name AS company_name,
     job_country,
     job_schedule_type,
-    salary_year_avg AS salary_year_USD,
-    job_posted_date
+    salary_year_avg * 1.26 AS salary_year_gbp --1.26 is the Exchange Rate GBP to USD. Exchange rate taken from 'Fixer' 25/11/2024
 FROM
     job_postings_fact
 LEFT JOIN
